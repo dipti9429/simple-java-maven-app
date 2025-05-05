@@ -20,6 +20,6 @@ public class AppTest
     public void testAppMessage()
     {
         App app = new App();
-        assertEquals("Welcome Zensar!", app.getMessage());
+        assertEquals("Welcome Zensar India!", app.getMessage());
     }
 }
